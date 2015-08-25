@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -x
 
 stash-test -c tester.conf run
 
